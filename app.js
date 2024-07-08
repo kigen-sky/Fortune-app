@@ -1,7 +1,7 @@
 
 function tellFortune() {
 
-    let favColor = document.getElementById("favColor").Value;
+    let favColor = document.getElementById("favColor").value;
     let career;
 
     if(favColor === "red") {
