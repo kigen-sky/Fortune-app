@@ -14,7 +14,7 @@ function tellFortune() {
         "Try another color";
     }
     document.getElementById("fort").innerHTML = career;
-}
+};
 
 
 
